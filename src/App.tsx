@@ -1,7 +1,7 @@
-import { Temperature } from './elements/temperature';
+import { Quiz } from './elements/Quiz';
 
-const App = () =>  {
-  return <Temperature/>;
+const App = () => {
+  return <Quiz />;
 };
 
 export default App;
