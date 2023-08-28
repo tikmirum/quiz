@@ -1,4 +1,4 @@
-import { Quiz } from './elements/Quiz';
+import { Quiz } from 'elements/Quiz';
 
 const App = () => {
   return <Quiz />;

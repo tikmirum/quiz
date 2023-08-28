@@ -1,12 +1,15 @@
 {
-  "name": "temerature",
+  "name": "quiz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.19.0",
     "antd": "^5.0.0",
+    "html-to-image": "^1.11.11",
     "react": "^18.2.0",
+    "react-copy-text": "^1.0.1",
     "react-dom": "^18.2.0",
+    "react-share": "^4.4.1",
     "styled-components": "^6.0.5"
   },
   "scripts": {

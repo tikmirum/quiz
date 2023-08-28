@@ -178,7 +178,7 @@ export const questionsAndAnswers: TQuizQuestion[] = [
         isCorrect: false,
       },
       {
-        answerText: '6 գազ ',
+        answerText: '6 ',
         isCorrect: false,
       },
       {
